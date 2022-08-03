@@ -2996,7 +2996,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			header.major {
-				margin: 0 0 2rem 0;
+				margin: 0 0 0rem 0;
 			}
 
 		}
@@ -3403,7 +3403,7 @@ input, select, textarea {
 		}
 
 		#intro + #header {
-			margin-top: -20rem;
+			margin-top: -10rem;
 		}
 
 			#intro + #header .logo {
@@ -3466,7 +3466,7 @@ input, select, textarea {
 				}
 
 				#intro + #header {
-					margin-top: -14rem;
+					margin-top: -10rem;
 				}
 
 		}
@@ -4488,7 +4488,7 @@ input, select, textarea {
 
 		}
 
-/* Nav Panel */
+/* Nav Panel 
 
 	#navPanelToggle {
 		text-decoration: none;
@@ -4691,4 +4691,4 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	}
+	} */
