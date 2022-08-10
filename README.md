@@ -2,7 +2,7 @@
 
 
 ## Overview
-A simple yet effective fantasy location generator that produces creative localles for your worldbuilding project or D&D homebrew campaign. 
+A simple yet effective fantasy location generator that produces creative locales for your worldbuilding project or D&D homebrew campaign. 
 
 
 ## Demo
